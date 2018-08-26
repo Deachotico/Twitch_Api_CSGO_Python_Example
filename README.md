@@ -16,6 +16,7 @@ Install the dependencies
 `python Setup.py install`
 
 if it fails run
+
 `pip install python-telegram-bot`
 
 Run bot
